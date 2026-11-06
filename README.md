@@ -8,6 +8,8 @@
 
 ```bash  #wget 方式 (支持 IPv4 / 纯 IPv6)
 wget -qO /usr/local/bin/vps https://raw.githubusercontent.com/fengjunzi0404/singbox/main/vps-toolbox.sh && chmod +x /usr/local/bin/vps && /usr/local/bin/vps
+```
 ```bash
-# curl 方式：
+# curl 方式
 curl -fsSL https://raw.githubusercontent.com/fengjunzi0404/singbox/main/vps-toolbox.sh -o /usr/local/bin/vps && chmod +x /usr/local/bin/vps && /usr/local/bin/vps
+```
